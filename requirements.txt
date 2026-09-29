@@ -1,0 +1,8 @@
+streamlit>=1.35
+python-dotenv>=1.0
+groq>=0.9
+neo4j>=5.20
+chromadb>=0.5
+langchain>=0.3
+langchain-neo4j>=0.5
+pytest>=8.0
